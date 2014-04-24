@@ -434,9 +434,8 @@ if (! class_exists ( "CVResult" )) {
 }
 
 if (! class_exists ( "Undo" )) {
-	/*f
- *Undo
- */
+
+
 	class Undo {
 		public $sessionToken; // string
 		public $TransactionId; // string
