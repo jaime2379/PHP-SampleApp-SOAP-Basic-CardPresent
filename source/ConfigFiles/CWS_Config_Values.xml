@@ -4,7 +4,11 @@
   <ServiceId serviceName="EVO TPS BCP Host Capture">39C6700001</ServiceId>
   <ServiceId serviceName="EVO TPS BCP Terminal Capture">4C85600001</ServiceId>
   <ApplicationProfileId>7298</ApplicationProfileId>
+  <MerchantProfileId serviceId="39C6700001">evosnap</MerchantProfileId>
+  <MerchantProfileId serviceId="4C85600001">evosnap_TC</MerchantProfileId>
   <MerchantProfileId serviceId="39C6700001">Merchant BCP HC SOAP 19</MerchantProfileId>
+  <MerchantProfileId serviceId="39C6700001">techcrunch2014</MerchantProfileId>
+  <MerchantProfileId serviceId="4C85600001">techcrunch2014_TC</MerchantProfileId>
   <MerchantProfileId serviceId="39C6700001">TestMerchant_39C6700001</MerchantProfileId>
   <MerchantProfileId serviceId="4C85600001">TestMerchant_4C85600001</MerchantProfileId>
 </config>
