@@ -193,7 +193,7 @@
   </wsdl:binding>
   <wsdl:service name="CWSTransactionManagement">
     <wsdl:port name="BasicHttpBinding_ITMSOperations" binding="tns:BasicHttpBinding_ITMSOperations">
-      <soap:address location="https://localhost/2.0.20/DataServices/TMS" />
+      <soap:address location="https://api.cipcert.goevo.com/2.0.20/DataServices/TMS" />
     </wsdl:port>
    
   </wsdl:service>
